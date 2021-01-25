@@ -19,3 +19,15 @@ What's kraken, ma homies?
 - useless at JS
 - useless at HTML
 - useless at CSS
+
+Favourite food:
+- Milk steak
+
+Hobbies:
+- Magnets
+
+Likes
+-Ghouls
+
+Dislikes:
+-People's knees
