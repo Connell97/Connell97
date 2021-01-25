@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 What's kraken, ma homies?
+
+A bit about me:
+
 - useless at JS
 - useless at HTML
 - useless at CSS
@@ -27,7 +30,7 @@ Hobbies:
 - Magnets
 
 Likes
--Ghouls
+- Ghouls
 
 Dislikes:
--People's knees
+- People's knees
