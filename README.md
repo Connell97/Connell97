@@ -32,3 +32,5 @@ Likes
 
 Dislikes:
 - People's knees
+
+![](https://github.com/Connell97/Connell97/blob/main/images/nemo.gif?raw=true)
