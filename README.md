@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's kraken, ma homies? 👋
 
 <!--
 **Connell97/Connell97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-What's kraken, ma homies?
 
 A bit about me:
 
