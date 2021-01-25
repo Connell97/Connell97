@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 What's kraken, ma homies?
+- useless at JS
+- useless at HTML
+- useless at CSS
