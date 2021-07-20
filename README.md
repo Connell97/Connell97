@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 A bit about me:
 
-- useless at JS
-- useless at HTML
-- useless at CSS
-
 Favourite food:
 - Milk steak
 
